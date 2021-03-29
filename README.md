@@ -4,7 +4,7 @@
 
 This repository contains all of the notes taken by [Dylan](https://github.com/dylangit01/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
 
-### Table of Contents
+## Table of Contents
  * [Week 1](/Week_1)
 	* [Day 1](/Week_1/Day_1)
 
